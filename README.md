@@ -1,8 +1,9 @@
 <div>
   <h1>Me chamo Luiz</h1>
-  Sou estudante de Sistemas de informaçao e desenvolvedor Front-end
-  
+  <p>Sou estudante de Sistemas de informaçao e desenvolvedor Front-end</p>
 </div>
+
+ ##
 
 <div>
   <img alt="html" align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
