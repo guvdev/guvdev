@@ -1,6 +1,6 @@
 <div>
-  <h1>Me chamo Luiz</h1>
-  <p>Estudante de Sistemas de informaçao e desenvolvedor Front-end. Atualmente aprendendo HTML, CSS e Javascript.</p>
+  <h1>Me chamo Luiz !</h1>
+  <p>📌 Estudante de Sistemas de informaçao e desenvolvedor Front-end. Atualmente aprendendo HTML, CSS e Javascript.</p>
 </div>
 
  ##
