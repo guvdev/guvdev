@@ -1,7 +1,6 @@
 <div>
   <h1>Me chamo Luiz !</h1>
   <p>📌 Estudante de Sistemas de informaçao na Unisul, Florianópolis.</p>
-  <p>Tecnologias: HTML, CSS, JavaScript e Python.</p>
 </div>
 
  ##
