@@ -1,6 +1,5 @@
 <div>
-  <h1></h1>
-  <p>Estudante de Sistemas de informaçao.</p>
+  <h1>Estudante de Sistemas de informaçao.</h1>
 </div>
 
  ##
